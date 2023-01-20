@@ -1,2 +1,6 @@
 # Data-In-Motion-Python-Weekly-Challenge
-Data In Motion weekly python and pandas challenge.
+----
+**This consist of two challenge, they are:**
+
+#### > Weekly Python Challenge
+#### > Weekly Pandas Challenge
